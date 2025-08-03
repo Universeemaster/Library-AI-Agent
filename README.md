@@ -76,6 +76,6 @@ Reduced search and reservation time
 
 <h3>🙌 Acknowledgements</h3>
 
-Special thanks to IBM, AICTE, and IBM SkillsBuild for providing the platform and tools that made this project possible.
+Special thanks to Edunet Foundation, AICTE, and IBM SkillsBuild for providing the platform and tools that made this project possible.
 
 
