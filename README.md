@@ -1,10 +1,10 @@
 # Library-AI-Agent
 A Library AI Agent is an intelligent system designed to assist students in finding the right  learning materials based on their academic needs. It can autonomously analyze user profiles, study  topics, and course syllabi to suggest relevant books and resources. 
-**🚀 Overview**
+<h3>🚀 Overview</h3>
 
 Library AI Agent is an intelligent assistant designed to solve a common academic challenge: helping students and faculty quickly find the most relevant learning materials from the library. Using Natural Language Processing (NLP) and Retrieval-Augmented Generation (RAG), this tool understands student queries in natural language and matches them to suitable books, research material, and syllabi content.
 
-##**🧠 Key Features**
+<h3>🧠 Key Features</h3>
 
 🔍 Smart Syllabus Matching: Auto-extracts key topics from syllabi and matches them with books.
 
@@ -22,7 +22,7 @@ Library AI Agent is an intelligent assistant designed to solve a common academic
 
 🔗 LMS Integration (Moodle, Canvas, etc.)
 
-##**🧰 Technologies Used**
+<h3>🧰 Technologies Used</h3>
 
 IBM Cloud Lite Services
 
@@ -38,7 +38,7 @@ Natural Language Processing (NLP)
 
 Retrieval-Augmented Generation (RAG)
 
-##**👥 End Users**
+<h3>👥 End Users</h3>
 
 Students – Get targeted book recommendations and reserve titles easily.
 
@@ -48,7 +48,7 @@ Faculty Members – Recommend readings aligned with coursework.
 
 Institutions – Improve library engagement and digital resource utilization.
 
-**📈 Results**
+<h3>📈 Results</h3>
 
 AI Agent successfully deployed and tested
 
@@ -58,7 +58,7 @@ Enhanced student satisfaction and engagement
 
 Reduced search and reservation time
 
-##**🔮 Future Scope**
+<h3>🔮 Future Scope</h3>
 
 📱 Mobile App for on-the-go access
 
@@ -74,7 +74,7 @@ Reduced search and reservation time
 
 🔐 Privacy and personalization controls
 
-##**🙌 Acknowledgements**
+<h3>🙌 Acknowledgements</h3>
 
 Special thanks to IBM, AICTE, and IBM SkillsBuild for providing the platform and tools that made this project possible.
 
