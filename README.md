@@ -4,7 +4,7 @@ A Library AI Agent is an intelligent system designed to assist students in findi
 
 Library AI Agent is an intelligent assistant designed to solve a common academic challenge: helping students and faculty quickly find the most relevant learning materials from the library. Using Natural Language Processing (NLP) and Retrieval-Augmented Generation (RAG), this tool understands student queries in natural language and matches them to suitable books, research material, and syllabi content.
 
-**🧠 Key Features**
+##**🧠 Key Features**
 
 🔍 Smart Syllabus Matching: Auto-extracts key topics from syllabi and matches them with books.
 
@@ -22,7 +22,7 @@ Library AI Agent is an intelligent assistant designed to solve a common academic
 
 🔗 LMS Integration (Moodle, Canvas, etc.)
 
-**🧰 Technologies Used**
+##**🧰 Technologies Used**
 
 IBM Cloud Lite Services
 
@@ -38,7 +38,7 @@ Natural Language Processing (NLP)
 
 Retrieval-Augmented Generation (RAG)
 
-**👥 End Users**
+##**👥 End Users**
 
 Students – Get targeted book recommendations and reserve titles easily.
 
@@ -58,7 +58,7 @@ Enhanced student satisfaction and engagement
 
 Reduced search and reservation time
 
-**🔮 Future Scope**
+##**🔮 Future Scope**
 
 📱 Mobile App for on-the-go access
 
@@ -74,7 +74,7 @@ Reduced search and reservation time
 
 🔐 Privacy and personalization controls
 
-**🙌 Acknowledgements**
+##**🙌 Acknowledgements**
 
 Special thanks to IBM, AICTE, and IBM SkillsBuild for providing the platform and tools that made this project possible.
 
